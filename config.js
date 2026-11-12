@@ -2,9 +2,8 @@
 // One Google sign-in ID is shared by everyone. Each teacher has their own backend URL.
 window.APP_CONFIG = {
   GOOGLE_CLIENT_ID: "727203278087-9p1ohsnmiplc3b8m4t28m45bcmko51li.apps.googleusercontent.com",
-  DEFAULT_TEACHER: "you",
+  DEFAULT_TEACHER: "calac",
   TEACHERS: {
-    you: "https://script.google.com/a/macros/siprep.org/s/AKfycbyHY37tvNuVFv2OaJc3WnsHFlxdb9rwtoUXQgT6yzXtGiNn16ESTXutz30Vqo485EHAIQ/exec",
-    colleague: "https://script.google.com/a/macros/siprep.org/s/AKfycbyHY37tvNuVFv2OaJc3WnsHFlxdb9rwtoUXQgT6yzXtGiNn16ESTXutz30Vqo485EHAIQ/exec"
+    calac: "https://script.google.com/a/macros/siprep.org/s/AKfycbyhOKLQHl9pFGBFdQHCvjbSWjSJEWy4jXinyRpkynE6O_GUPJXnzF8G4nB9ruz8N9hx/exec"
   }
 };
